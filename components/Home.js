@@ -188,18 +188,14 @@ const estilo = StyleSheet.create({
     },
     
     BtnCadastrar: {
-        fontSize: 80,
-        left:'72%',
-        bottom:'10%',
-        width:50,
-        height:50,
-        justifyContent:'center',
-        textAlign:'center',
-        alignItems:'center',
-        borderRadius:16,
-        borderColor:'white',
-        borderWidth:2,
-        marginBottom:10,
+        width: 50,
+        height: 50,
+        justifyContent: 'center',
+        alignItems: 'center',
+        borderRadius: 16,
+        borderColor: 'white',
+        borderWidth: 2,
+        marginBottom: 20, // Adiciona um espaço na parte inferior
         backgroundColor: '#787878',
     },
 
